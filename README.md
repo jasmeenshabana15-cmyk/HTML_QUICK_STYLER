@@ -60,6 +60,7 @@ Enhancements
 👨‍💻 Author
 
 Developed as an academic mini-project using Python and Gradio
+
  HTML QUICK STYLER OUTPUT
 ![WhatsApp Image 2026-03-04 at 11 18 42](https://github.com/user-attachments/assets/8dd8dbbb-bedf-4f60-9fb6-a5429aa9f8d0)
 ![WhatsApp Image 2026-03-04 at 11 18 43](https://github.com/user-attachments/assets/ca458022-dfd9-4fb4-8e50-fec7efdf3aa3)
