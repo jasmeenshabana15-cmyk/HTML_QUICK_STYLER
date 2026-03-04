@@ -1,0 +1,1 @@
+HTML Quick Styler is a simple and user-friendly web application that allows users to quickly style and preview HTML content in real time. This project is designed to help beginners understand how HTML and CSS work together by providing an interactive styling environment.
